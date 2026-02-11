@@ -196,7 +196,7 @@ $g: \mathbb{N}\times \mathbb{N} \rightarrow \mathbb{N}$. It is a
 function that maps all discrete pixels of a 2-D space to natural
 numbers. Immediately we know the cardinality of
 $\mathbb{N}\times \mathbb{N}$ is not more than $\aleph_0$! If we can
-prove that $g$ is injective and surjection, then we know that
+prove that $g$ is injective and surjective, then we know that
 $|\mathbb{N}\times \mathbb{N}| = |\mathbb{N}| = \aleph_0$, and that is
 just awesome!
 
